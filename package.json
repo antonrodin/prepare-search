@@ -1,0 +1,19 @@
+{
+  "name": "search",
+  "version": "1.0.0",
+  "description": "Test Metaphone and Stop Words for any string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "Anton Zekeriev Rodin",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^2.2.0-rc.0"
+  },
+  "dependencies": {
+    "metaphone": "^1.0.3",
+    "stopwords-es": "^0.3.0"
+  }
+}
