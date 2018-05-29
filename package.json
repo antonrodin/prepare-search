@@ -1,5 +1,5 @@
 {
-  "name": "search",
+  "name": "prepare-search",
   "version": "1.0.0",
   "description": "Test Metaphone and Stop Words for any string.",
   "main": "index.js",
